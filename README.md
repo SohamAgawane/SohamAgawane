@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm Soham 👋</h1>
-
-Here are some ideas to get you started:
+## Hi 👋
 
 - 🔭 I’m currently working on Digital Payment & Wallet System
 - 🌱 I’m currently learning Java & Backend
