@@ -1,6 +1,5 @@
 ## Hi 👋
 
-- 🔭 I’m currently working on Digital Payment & Wallet System
-- 🌱 I’m currently learning Java & Backend
+- 🌱 I’m currently learning Java & MERN
 - 💬 Ask me about Java and Full-Stack Web Development
-- 📫 How to reach me: sohamagawane1@gmail.com
+- 📫 How to reach me: sohamagawane07@gmail.com
